@@ -1,0 +1,751 @@
+Protein ID,GO ID,Category,Description
+Q96ME1,GO:0005829,Cellular Component,cytosol
+Q96ME1,GO:0019005,Cellular Component,SCF ubiquitin ligase complex
+Q96ME1,GO:0031146,Biological Process,SCF-dependent proteasomal ubiquitin-dependent protein catabolic process
+O43734,GO:0005737,Cellular Component,cytoplasm
+O43734,GO:0031410,Cellular Component,cytoplasmic vesicle
+O43734,GO:0031234,Cellular Component,extrinsic component of cytoplasmic side of plasma membrane
+O43734,GO:0005634,Cellular Component,nucleus
+O43734,GO:0005102,Molecular Function,signaling receptor binding
+O43734,GO:0061630,Molecular Function,ubiquitin protein ligase activity
+O43734,GO:0002344,Biological Process,B cell affinity maturation
+O43734,GO:0001783,Biological Process,B cell apoptotic process
+O43734,GO:0001782,Biological Process,B cell homeostasis
+O43734,GO:0023035,Biological Process,CD40 signaling pathway
+O43734,GO:1990959,Biological Process,eosinophil homeostasis
+O43734,GO:0002447,Biological Process,eosinophil mediated immunity
+O43734,GO:0001768,Biological Process,establishment of T cell polarity
+O43734,GO:0007507,Biological Process,heart development
+O43734,GO:0006959,Biological Process,humoral immune response
+O43734,GO:0006954,Biological Process,inflammatory response
+O43734,GO:0097400,Biological Process,interleukin-17-mediated signaling pathway
+O43734,GO:0038173,Biological Process,interleukin-17A-mediated signaling pathway
+O43734,GO:0035556,Biological Process,intracellular signal transduction
+O43734,GO:0001822,Biological Process,kidney development
+O43734,GO:0002269,Biological Process,leukocyte activation involved in inflammatory response
+O43734,GO:0048535,Biological Process,lymph node development
+O43734,GO:0048255,Biological Process,mRNA stabilization
+O43734,GO:0070254,Biological Process,mucus secretion
+O43734,GO:0042119,Biological Process,neutrophil activation
+O43734,GO:0043123,Biological Process,positive regulation of canonical NF-kappaB signal transduction
+O43734,GO:0002230,Biological Process,positive regulation of defense response to virus by host
+O43734,GO:0006606,Biological Process,protein import into nucleus
+O43734,GO:0070534,Biological Process,protein K63-linked ubiquitination
+O43734,GO:0110012,Biological Process,protein localization to P-body
+O43734,GO:0009410,Biological Process,response to xenobiotic stimulus
+O43734,GO:0023019,Biological Process,signal transduction involved in regulation of gene expression
+O43734,GO:0043588,Biological Process,skin development
+O43734,GO:0048536,Biological Process,spleen development
+O43734,GO:0030217,Biological Process,T cell differentiation
+O43734,GO:0072538,Biological Process,T-helper 17 type immune response
+O43734,GO:0002334,Biological Process,transitional two stage B cell differentiation
+O43734,GO:0033209,Biological Process,tumor necrosis factor-mediated signaling pathway
+O43734,GO:0042092,Biological Process,type 2 immune response
+Q6MZQ0,GO:0031932,Cellular Component,TORC2 complex
+Q6MZQ0,GO:0031625,Molecular Function,ubiquitin protein ligase binding
+Q6MZQ0,GO:0034599,Biological Process,cellular response to oxidative stress
+Q6MZQ0,GO:0001933,Biological Process,negative regulation of protein phosphorylation
+Q6MZQ0,GO:0009968,Biological Process,negative regulation of signal transduction
+Q6MZQ0,GO:0043491,Biological Process,phosphatidylinositol 3-kinase/protein kinase B signal transduction
+Q6MZQ0,GO:0090316,Biological Process,positive regulation of intracellular protein transport
+Q6MZQ0,GO:0061014,Biological Process,positive regulation of mRNA catabolic process
+Q6MZQ0,GO:0051897,Biological Process,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction
+Q6MZQ0,GO:0001934,Biological Process,positive regulation of protein phosphorylation
+Q6MZQ0,GO:0010762,Biological Process,regulation of fibroblast migration
+Q6MZQ0,GO:0038203,Biological Process,TORC2 signaling
+Q8NC01,GO:0005886,Cellular Component,plasma membrane
+Q8NC01,GO:0030246,Molecular Function,carbohydrate binding
+Q8NC01,GO:0004888,Molecular Function,transmembrane signaling receptor activity
+Q8NC01,GO:0007166,Biological Process,cell surface receptor signaling pathway
+Q8NC01,GO:0007165,Biological Process,signal transduction
+A0A023T408,GO:0004725,Molecular Function,protein tyrosine phosphatase activity
+Q9UM82,GO:0005737,Cellular Component,cytoplasm
+Q9UM82,GO:0005829,Cellular Component,cytosol
+Q9UM82,GO:0001650,Cellular Component,fibrillar center
+Q9UM82,GO:0005654,Cellular Component,nucleoplasm
+Q9UM82,GO:0044877,Molecular Function,protein-containing complex binding
+Q9UM82,GO:0030159,Molecular Function,signaling receptor complex adaptor activity
+Q9UM82,GO:1990381,Molecular Function,ubiquitin-specific protease binding
+Q9UM82,GO:0070266,Biological Process,necroptotic process
+Q9UM82,GO:0070536,Biological Process,protein K63-linked deubiquitination
+Q9UM82,GO:1990108,Biological Process,protein linear deubiquitination
+Q9UM82,GO:0050727,Biological Process,regulation of inflammatory response
+Q9UM82,GO:0060544,Biological Process,regulation of necroptotic process
+Q9UM82,GO:0010803,Biological Process,regulation of tumor necrosis factor-mediated signaling pathway
+Q9UM82,GO:0072520,Biological Process,seminiferous tubule development
+Q9UM82,GO:0007283,Biological Process,spermatogenesis
+Q9C0D7,GO:0036464,Cellular Component,cytoplasmic ribonucleoprotein granule
+Q9C0D7,GO:0005634,Cellular Component,nucleus
+Q9C0D7,GO:0046872,Molecular Function,metal ion binding
+Q9C0D7,GO:0003729,Molecular Function,mRNA binding
+Q9C0D7,GO:0004521,Molecular Function,RNA endonuclease activity
+Q13555,GO:0005954,Cellular Component,calcium- and calmodulin-dependent protein kinase complex
+Q13555,GO:0005737,Cellular Component,cytoplasm
+Q13555,GO:0005829,Cellular Component,cytosol
+Q13555,GO:0030666,Cellular Component,endocytic vesicle membrane
+Q13555,GO:0016020,Cellular Component,membrane
+Q13555,GO:0043005,Cellular Component,neuron projection
+Q13555,GO:0005654,Cellular Component,nucleoplasm
+Q13555,GO:0033017,Cellular Component,sarcoplasmic reticulum membrane
+Q13555,GO:0005524,Molecular Function,ATP binding
+Q13555,GO:0004723,Molecular Function,calcium-dependent protein serine/threonine phosphatase activity
+Q13555,GO:0005516,Molecular Function,calmodulin binding
+Q13555,GO:0004683,Molecular Function,calmodulin-dependent protein kinase activity
+Q13555,GO:0042802,Molecular Function,identical protein binding
+Q13555,GO:0042803,Molecular Function,protein homodimerization activity
+Q13555,GO:0106310,Molecular Function,protein serine kinase activity
+Q13555,GO:0030154,Biological Process,cell differentiation
+Q13555,GO:0030073,Biological Process,insulin secretion
+Q13555,GO:0007399,Biological Process,nervous system development
+Q13555,GO:0051924,Biological Process,regulation of calcium ion transport
+Q13555,GO:0010975,Biological Process,regulation of neuron projection development
+Q13555,GO:0014733,Biological Process,regulation of skeletal muscle adaptation
+Q9UHP7,GO:0009986,Cellular Component,cell surface
+Q9UHP7,GO:0005783,Cellular Component,endoplasmic reticulum
+Q9UHP7,GO:0009897,Cellular Component,external side of plasma membrane
+Q9UHP7,GO:0016020,Cellular Component,membrane
+Q9UHP7,GO:0005886,Cellular Component,plasma membrane
+Q9UHP7,GO:0030246,Molecular Function,carbohydrate binding
+Q9UHP7,GO:0004888,Molecular Function,transmembrane signaling receptor activity
+Q9UHP7,GO:0007166,Biological Process,cell surface receptor signaling pathway
+Q92556,GO:0005737,Cellular Component,cytoplasm
+Q92556,GO:0005829,Cellular Component,cytosol
+Q92556,GO:0032045,Cellular Component,guanyl-nucleotide exchange factor complex
+Q92556,GO:0016020,Cellular Component,membrane
+Q92556,GO:0005886,Cellular Component,plasma membrane
+Q92556,GO:0017124,Molecular Function,SH3 domain binding
+Q92556,GO:0030036,Biological Process,actin cytoskeleton organization
+Q92556,GO:0007015,Biological Process,actin filament organization
+Q92556,GO:0006915,Biological Process,apoptotic process
+Q92556,GO:0048870,Biological Process,cell motility
+Q92556,GO:0006911,Biological Process,"phagocytosis, engulfment"
+Q92556,GO:0016601,Biological Process,Rac protein signal transduction
+Q6P3S1,GO:0030136,Cellular Component,clathrin-coated vesicle
+Q6P3S1,GO:0005829,Cellular Component,cytosol
+Q6P3S1,GO:0043231,Cellular Component,intracellular membrane-bounded organelle
+Q6P3S1,GO:0016607,Cellular Component,nuclear speck
+Q6P3S1,GO:0005085,Molecular Function,guanyl-nucleotide exchange factor activity
+Q6P3S1,GO:1901981,Molecular Function,phosphatidylinositol phosphate binding
+Q6P3S1,GO:0031267,Molecular Function,small GTPase binding
+Q6P3S1,GO:0032456,Biological Process,endocytic recycling
+Q6P3S1,GO:0006897,Biological Process,endocytosis
+Q6P3S1,GO:2000553,Biological Process,positive regulation of T-helper 2 cell cytokine production
+Q6P3S1,GO:0015031,Biological Process,protein transport
+Q6P3S1,GO:0050776,Biological Process,regulation of immune response
+Q6P3S1,GO:0050852,Biological Process,T cell receptor signaling pathway
+Q3MIT2,GO:0005737,Cellular Component,cytoplasm
+Q3MIT2,GO:0005739,Cellular Component,mitochondrion
+Q3MIT2,GO:0005634,Cellular Component,nucleus
+Q3MIT2,GO:0046872,Molecular Function,metal ion binding
+Q3MIT2,GO:0070878,Molecular Function,primary miRNA binding
+Q3MIT2,GO:0009982,Molecular Function,pseudouridine synthase activity
+Q3MIT2,GO:0106029,Molecular Function,tRNA pseudouridine synthase activity
+Q3MIT2,GO:0160148,Molecular Function,tRNA pseudouridine(55) synthase activity
+Q3MIT2,GO:0031053,Biological Process,primary miRNA processing
+Q3MIT2,GO:0031119,Biological Process,tRNA pseudouridine synthesis
+Q13761,GO:0000785,Cellular Component,chromatin
+Q13761,GO:0016513,Cellular Component,core-binding factor complex
+Q13761,GO:0005737,Cellular Component,cytoplasm
+Q13761,GO:0005829,Cellular Component,cytosol
+Q13761,GO:0043231,Cellular Component,intracellular membrane-bounded organelle
+Q13761,GO:0005730,Cellular Component,nucleolus
+Q13761,GO:0005654,Cellular Component,nucleoplasm
+Q13761,GO:0005634,Cellular Component,nucleus
+Q13761,GO:0005524,Molecular Function,ATP binding
+Q13761,GO:0003700,Molecular Function,DNA-binding transcription factor activity
+Q13761,GO:0000981,Molecular Function,"DNA-binding transcription factor activity, RNA polymerase II-specific"
+Q13761,GO:0000978,Molecular Function,RNA polymerase II cis-regulatory region sequence-specific DNA binding
+Q13761,GO:0000977,Molecular Function,RNA polymerase II transcription regulatory region sequence-specific DNA binding
+Q13761,GO:1990837,Molecular Function,sequence-specific double-stranded DNA binding
+Q13761,GO:0001222,Molecular Function,transcription corepressor binding
+Q13761,GO:0002062,Biological Process,chondrocyte differentiation
+Q13761,GO:0030097,Biological Process,hemopoiesis
+Q13761,GO:0043371,Biological Process,"negative regulation of CD4-positive, alpha-beta T cell differentiation"
+Q13761,GO:0045786,Biological Process,negative regulation of cell cycle
+Q13761,GO:0050680,Biological Process,negative regulation of epithelial cell proliferation
+Q13761,GO:0000122,Biological Process,negative regulation of transcription by RNA polymerase II
+Q13761,GO:0030182,Biological Process,neuron differentiation
+Q13761,GO:0001503,Biological Process,ossification
+Q13761,GO:0048935,Biological Process,peripheral nervous system neuron development
+Q13761,GO:0043378,Biological Process,"positive regulation of CD8-positive, alpha-beta T cell differentiation"
+Q13761,GO:0045893,Biological Process,positive regulation of DNA-templated transcription
+Q13761,GO:0006468,Biological Process,protein phosphorylation
+Q13761,GO:0045595,Biological Process,regulation of cell differentiation
+Q13761,GO:0006355,Biological Process,regulation of DNA-templated transcription
+Q13761,GO:0006357,Biological Process,regulation of transcription by RNA polymerase II
+Q13761,GO:0071559,Biological Process,response to transforming growth factor beta
+P29597,GO:0005737,Cellular Component,cytoplasm
+P29597,GO:0009898,Cellular Component,cytoplasmic side of plasma membrane
+P29597,GO:0005856,Cellular Component,cytoskeleton
+P29597,GO:0005829,Cellular Component,cytosol
+P29597,GO:0070062,Cellular Component,extracellular exosome
+P29597,GO:0031234,Cellular Component,extrinsic component of cytoplasmic side of plasma membrane
+P29597,GO:0019897,Cellular Component,extrinsic component of plasma membrane
+P29597,GO:0042022,Cellular Component,interleukin-12 receptor complex
+P29597,GO:0072536,Cellular Component,interleukin-23 receptor complex
+P29597,GO:0005634,Cellular Component,nucleus
+P29597,GO:0005886,Cellular Component,plasma membrane
+P29597,GO:0005524,Molecular Function,ATP binding
+P29597,GO:0005131,Molecular Function,growth hormone receptor binding
+P29597,GO:0004715,Molecular Function,non-membrane spanning protein tyrosine kinase activity
+P29597,GO:0004713,Molecular Function,protein tyrosine kinase activity
+P29597,GO:0031702,Molecular Function,type 1 angiotensin receptor binding
+P29597,GO:0030154,Biological Process,cell differentiation
+P29597,GO:0007259,Biological Process,cell surface receptor signaling pathway via JAK-STAT
+P29597,GO:0098586,Biological Process,cellular response to virus
+P29597,GO:0019221,Biological Process,cytokine-mediated signaling pathway
+P29597,GO:0060397,Biological Process,growth hormone receptor signaling pathway via JAK-STAT
+P29597,GO:0006955,Biological Process,immune response
+P29597,GO:0140105,Biological Process,interleukin-10-mediated signaling pathway
+P29597,GO:0035722,Biological Process,interleukin-12-mediated signaling pathway
+P29597,GO:0038155,Biological Process,interleukin-23-mediated signaling pathway
+P29597,GO:0035556,Biological Process,intracellular signal transduction
+P29597,GO:0032740,Biological Process,positive regulation of interleukin-17 production
+P29597,GO:0032819,Biological Process,positive regulation of natural killer cell proliferation
+P29597,GO:0051142,Biological Process,positive regulation of NK T cell proliferation
+P29597,GO:1900182,Biological Process,positive regulation of protein localization to nucleus
+P29597,GO:0046427,Biological Process,positive regulation of receptor signaling pathway via JAK-STAT
+P29597,GO:0042102,Biological Process,positive regulation of T cell proliferation
+P29597,GO:2000318,Biological Process,positive regulation of T-helper 17 type immune response
+P29597,GO:0032729,Biological Process,positive regulation of type II interferon production
+P29597,GO:0006468,Biological Process,protein phosphorylation
+P29597,GO:0060337,Biological Process,type I interferon-mediated signaling pathway
+P29597,GO:0060333,Biological Process,type II interferon-mediated signaling pathway
+P29597,GO:0038196,Biological Process,type III interferon-mediated signaling pathway
+P29460,GO:0005829,Cellular Component,cytosol
+P29460,GO:0005788,Cellular Component,endoplasmic reticulum lumen
+P29460,GO:0009897,Cellular Component,external side of plasma membrane
+P29460,GO:0005576,Cellular Component,extracellular region
+P29460,GO:0005615,Cellular Component,extracellular space
+P29460,GO:0043514,Cellular Component,interleukin-12 complex
+P29460,GO:0070743,Cellular Component,interleukin-23 complex
+P29460,GO:0031906,Cellular Component,late endosome lumen
+P29460,GO:0043235,Cellular Component,receptor complex
+P29460,GO:0005125,Molecular Function,cytokine activity
+P29460,GO:0019955,Molecular Function,cytokine binding
+P29460,GO:0004896,Molecular Function,cytokine receptor activity
+P29460,GO:0042802,Molecular Function,identical protein binding
+P29460,GO:0042164,Molecular Function,interleukin-12 alpha subunit binding
+P29460,GO:0005143,Molecular Function,interleukin-12 receptor binding
+P29460,GO:0046982,Molecular Function,protein heterodimerization activity
+P29460,GO:0044877,Molecular Function,protein-containing complex binding
+P29460,GO:0016477,Biological Process,cell migration
+P29460,GO:0007259,Biological Process,cell surface receptor signaling pathway via JAK-STAT
+P29460,GO:0071222,Biological Process,cellular response to lipopolysaccharide
+P29460,GO:0071346,Biological Process,cellular response to type II interferon
+P29460,GO:0019221,Biological Process,cytokine-mediated signaling pathway
+P29460,GO:0050829,Biological Process,defense response to Gram-negative bacterium
+P29460,GO:0042832,Biological Process,defense response to protozoan
+P29460,GO:0051607,Biological Process,defense response to virus
+P29460,GO:0035722,Biological Process,interleukin-12-mediated signaling pathway
+P29460,GO:0030101,Biological Process,natural killer cell activation
+P29460,GO:0002323,Biological Process,natural killer cell activation involved in immune response
+P29460,GO:1903588,Biological Process,negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+P29460,GO:0002862,Biological Process,negative regulation of inflammatory response to antigenic stimulus
+P29460,GO:0032693,Biological Process,negative regulation of interleukin-10 production
+P29460,GO:0032700,Biological Process,negative regulation of interleukin-17 production
+P29460,GO:0050709,Biological Process,negative regulation of protein secretion
+P29460,GO:0048662,Biological Process,negative regulation of smooth muscle cell proliferation
+P29460,GO:1900747,Biological Process,negative regulation of vascular endothelial growth factor signaling pathway
+P29460,GO:0042104,Biological Process,positive regulation of activated T cell proliferation
+P29460,GO:0045785,Biological Process,positive regulation of cell adhesion
+P29460,GO:0002230,Biological Process,positive regulation of defense response to virus by host
+P29460,GO:0032725,Biological Process,positive regulation of granulocyte macrophage colony-stimulating factor production
+P29460,GO:0050729,Biological Process,positive regulation of inflammatory response
+P29460,GO:0032733,Biological Process,positive regulation of interleukin-10 production
+P29460,GO:0032735,Biological Process,positive regulation of interleukin-12 production
+P29460,GO:0032740,Biological Process,positive regulation of interleukin-17 production
+P29460,GO:0050671,Biological Process,positive regulation of lymphocyte proliferation
+P29460,GO:0043382,Biological Process,positive regulation of memory T cell differentiation
+P29460,GO:0032946,Biological Process,positive regulation of mononuclear cell proliferation
+P29460,GO:0032816,Biological Process,positive regulation of natural killer cell activation
+P29460,GO:0002860,Biological Process,positive regulation of natural killer cell mediated cytotoxicity directed against tumor cell target
+P29460,GO:0032819,Biological Process,positive regulation of natural killer cell proliferation
+P29460,GO:0051135,Biological Process,positive regulation of NK T cell activation
+P29460,GO:0051142,Biological Process,positive regulation of NK T cell proliferation
+P29460,GO:1901224,Biological Process,positive regulation of non-canonical NF-kappaB signal transduction
+P29460,GO:0045672,Biological Process,positive regulation of osteoclast differentiation
+P29460,GO:0034393,Biological Process,positive regulation of smooth muscle cell apoptotic process
+P29460,GO:0001916,Biological Process,positive regulation of T cell mediated cytotoxicity
+P29460,GO:0042102,Biological Process,positive regulation of T cell proliferation
+P29460,GO:0002827,Biological Process,positive regulation of T-helper 1 type immune response
+P29460,GO:2000330,Biological Process,positive regulation of T-helper 17 cell lineage commitment
+P29460,GO:2000318,Biological Process,positive regulation of T-helper 17 type immune response
+P29460,GO:0034105,Biological Process,positive regulation of tissue remodeling
+P29460,GO:0032760,Biological Process,positive regulation of tumor necrosis factor production
+P29460,GO:0032729,Biological Process,positive regulation of type II interferon production
+P29460,GO:0001817,Biological Process,regulation of cytokine production
+P29460,GO:0010224,Biological Process,response to UV-B
+P29460,GO:0019953,Biological Process,sexual reproduction
+P29460,GO:0042098,Biological Process,T cell proliferation
+P29460,GO:0042088,Biological Process,T-helper 1 type immune response
+P29460,GO:0042093,Biological Process,T-helper cell differentiation
+Q5VWK5,GO:0009986,Cellular Component,cell surface
+Q5VWK5,GO:0009897,Cellular Component,external side of plasma membrane
+Q5VWK5,GO:0072536,Cellular Component,interleukin-23 receptor complex
+Q5VWK5,GO:0005886,Cellular Component,plasma membrane
+Q5VWK5,GO:0043235,Cellular Component,receptor complex
+Q5VWK5,GO:0019955,Molecular Function,cytokine binding
+Q5VWK5,GO:0004896,Molecular Function,cytokine receptor activity
+Q5VWK5,GO:0007259,Biological Process,cell surface receptor signaling pathway via JAK-STAT
+Q5VWK5,GO:0019221,Biological Process,cytokine-mediated signaling pathway
+Q5VWK5,GO:0050829,Biological Process,defense response to Gram-negative bacterium
+Q5VWK5,GO:0006954,Biological Process,inflammatory response
+Q5VWK5,GO:0038155,Biological Process,interleukin-23-mediated signaling pathway
+Q5VWK5,GO:0032693,Biological Process,negative regulation of interleukin-10 production
+Q5VWK5,GO:0042104,Biological Process,positive regulation of activated T cell proliferation
+Q5VWK5,GO:0002230,Biological Process,positive regulation of defense response to virus by host
+Q5VWK5,GO:0032725,Biological Process,positive regulation of granulocyte macrophage colony-stimulating factor production
+Q5VWK5,GO:0032735,Biological Process,positive regulation of interleukin-12 production
+Q5VWK5,GO:0032740,Biological Process,positive regulation of interleukin-17 production
+Q5VWK5,GO:0043382,Biological Process,positive regulation of memory T cell differentiation
+Q5VWK5,GO:0032819,Biological Process,positive regulation of natural killer cell proliferation
+Q5VWK5,GO:0051135,Biological Process,positive regulation of NK T cell activation
+Q5VWK5,GO:0045672,Biological Process,positive regulation of osteoclast differentiation
+Q5VWK5,GO:0001916,Biological Process,positive regulation of T cell mediated cytotoxicity
+Q5VWK5,GO:0042102,Biological Process,positive regulation of T cell proliferation
+Q5VWK5,GO:0002827,Biological Process,positive regulation of T-helper 1 type immune response
+Q5VWK5,GO:2000330,Biological Process,positive regulation of T-helper 17 cell lineage commitment
+Q5VWK5,GO:2000318,Biological Process,positive regulation of T-helper 17 type immune response
+Q5VWK5,GO:0032729,Biological Process,positive regulation of type II interferon production
+Q5VWK5,GO:0042531,Biological Process,positive regulation of tyrosine phosphorylation of STAT protein
+Q5VWK5,GO:0032496,Biological Process,response to lipopolysaccharide
+Q5VWK5,GO:0034341,Biological Process,response to type II interferon
+Q12907,GO:0009986,Cellular Component,cell surface
+Q12907,GO:0030134,Cellular Component,COPII-coated ER to Golgi transport vesicle
+Q12907,GO:0005789,Cellular Component,endoplasmic reticulum membrane
+Q12907,GO:0005793,Cellular Component,endoplasmic reticulum-Golgi intermediate compartment
+Q12907,GO:0033116,Cellular Component,endoplasmic reticulum-Golgi intermediate compartment membrane
+Q12907,GO:0070062,Cellular Component,extracellular exosome
+Q12907,GO:0005615,Cellular Component,extracellular space
+Q12907,GO:0005794,Cellular Component,Golgi apparatus
+Q12907,GO:0000139,Cellular Component,Golgi membrane
+Q12907,GO:0005886,Cellular Component,plasma membrane
+Q12907,GO:0030246,Molecular Function,carbohydrate binding
+Q12907,GO:0005537,Molecular Function,D-mannose binding
+Q12907,GO:0031072,Molecular Function,heat shock protein binding
+Q12907,GO:0046872,Molecular Function,metal ion binding
+Q12907,GO:0006888,Biological Process,endoplasmic reticulum to Golgi vesicle-mediated transport
+Q12907,GO:0050766,Biological Process,positive regulation of phagocytosis
+Q12907,GO:0015031,Biological Process,protein transport
+Q12907,GO:0006890,Biological Process,"retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum"
+Q9HCH3,GO:0070062,Cellular Component,extracellular exosome
+Q9HCH3,GO:0043005,Cellular Component,neuron projection
+Q9HCH3,GO:0043204,Cellular Component,perikaryon
+Q9HCH3,GO:0005886,Cellular Component,plasma membrane
+Q9HCH3,GO:0005544,Molecular Function,calcium-dependent phospholipid binding
+Q9HCH3,GO:0046872,Molecular Function,metal ion binding
+Q9HCH3,GO:0030154,Biological Process,cell differentiation
+Q9HCH3,GO:0071277,Biological Process,cellular response to calcium ion
+Q9HCH3,GO:1903861,Biological Process,positive regulation of dendrite extension
+Q8NFZ5,GO:0005829,Cellular Component,cytosol
+Q8NFZ5,GO:0005654,Cellular Component,nucleoplasm
+Q8NFZ5,GO:0070530,Molecular Function,K63-linked polyubiquitin modification-dependent protein binding
+Q8NFZ5,GO:0046872,Molecular Function,metal ion binding
+Q8NFZ5,GO:0031593,Molecular Function,polyubiquitin modification-dependent protein binding
+Q8NFZ5,GO:0019901,Molecular Function,protein kinase binding
+Q8NFZ5,GO:0006915,Biological Process,apoptotic process
+Q8NFZ5,GO:0023035,Biological Process,CD40 signaling pathway
+Q8NFZ5,GO:0071222,Biological Process,cellular response to lipopolysaccharide
+Q8NFZ5,GO:0006954,Biological Process,inflammatory response
+Q8NFZ5,GO:0070498,Biological Process,interleukin-1-mediated signaling pathway
+Q8NFZ5,GO:2000352,Biological Process,negative regulation of endothelial cell apoptotic process
+Q8NFZ5,GO:0050871,Biological Process,positive regulation of B cell activation
+Q8NFZ5,GO:0043123,Biological Process,positive regulation of canonical NF-kappaB signal transduction
+Q8NFZ5,GO:0043032,Biological Process,positive regulation of macrophage activation
+Q8NFZ5,GO:0045944,Biological Process,positive regulation of transcription by RNA polymerase II
+Q8NFZ5,GO:0050821,Biological Process,protein stabilization
+Q8NFZ5,GO:0006357,Biological Process,regulation of transcription by RNA polymerase II
+Q8NFZ5,GO:0034134,Biological Process,toll-like receptor 2 signaling pathway
+Q8NFZ5,GO:0034138,Biological Process,toll-like receptor 3 signaling pathway
+Q8NFZ5,GO:0034162,Biological Process,toll-like receptor 9 signaling pathway
+Q5VTH9,GO:0005858,Cellular Component,axonemal dynein complex
+Q5VTH9,GO:0005930,Cellular Component,axoneme
+Q5VTH9,GO:0120293,Cellular Component,dynein axonemal particle
+Q5VTH9,GO:0031514,Cellular Component,motile cilium
+Q5VTH9,GO:0045504,Molecular Function,dynein heavy chain binding
+Q5VTH9,GO:0045503,Molecular Function,dynein light chain binding
+Q5VTH9,GO:0070286,Biological Process,axonemal dynein complex assembly
+Q5VTH9,GO:0003341,Biological Process,cilium movement
+Q5VTH9,GO:0002244,Biological Process,hematopoietic progenitor cell differentiation
+Q5VV42,GO:0005783,Cellular Component,endoplasmic reticulum
+Q5VV42,GO:0005789,Cellular Component,endoplasmic reticulum membrane
+Q5VV42,GO:0016020,Cellular Component,membrane
+Q5VV42,GO:0005791,Cellular Component,rough endoplasmic reticulum
+Q5VV42,GO:0051539,Molecular Function,"4 iron, 4 sulfur cluster binding"
+Q5VV42,GO:0046872,Molecular Function,metal ion binding
+Q5VV42,GO:0035598,Molecular Function,N6-threonylcarbomyladenosine methylthiotransferase activity
+Q5VV42,GO:0061712,Molecular Function,tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase
+Q5VV42,GO:1990145,Biological Process,maintenance of translational fidelity
+Q5VV42,GO:0035600,Biological Process,tRNA methylthiolation
+Q96E14,GO:0005829,Cellular Component,cytosol
+Q96E14,GO:0016607,Cellular Component,nuclear speck
+Q96E14,GO:0005654,Cellular Component,nucleoplasm
+Q96E14,GO:0005634,Cellular Component,nucleus
+Q96E14,GO:0031422,Cellular Component,RecQ family helicase-topoisomerase III complex
+Q96E14,GO:0003677,Molecular Function,DNA binding
+Q96E14,GO:0006281,Biological Process,DNA repair
+Q96E14,GO:0006260,Biological Process,DNA replication
+Q96E14,GO:0000724,Biological Process,double-strand break repair via homologous recombination
+Q96E14,GO:0043007,Biological Process,maintenance of rDNA
+Q96E14,GO:2000042,Biological Process,negative regulation of double-strand break repair via homologous recombination
+Q96E14,GO:0033045,Biological Process,regulation of sister chromatid segregation
+Q96E14,GO:0071139,Biological Process,resolution of DNA recombination intermediates
+Q9UQQ2,GO:0005829,Cellular Component,cytosol
+Q9UQQ2,GO:0005886,Cellular Component,plasma membrane
+Q9UQQ2,GO:1990782,Molecular Function,protein tyrosine kinase binding
+Q9UQQ2,GO:0030159,Molecular Function,signaling receptor complex adaptor activity
+Q9UQQ2,GO:0005173,Molecular Function,stem cell factor receptor binding
+Q9UQQ2,GO:0005068,Molecular Function,transmembrane receptor protein tyrosine kinase adaptor activity
+Q9UQQ2,GO:1990869,Biological Process,cellular response to chemokine
+Q9UQQ2,GO:0036016,Biological Process,cellular response to interleukin-3
+Q9UQQ2,GO:0035162,Biological Process,embryonic hemopoiesis
+Q9UQQ2,GO:0048821,Biological Process,erythrocyte development
+Q9UQQ2,GO:0060218,Biological Process,hematopoietic stem cell differentiation
+Q9UQQ2,GO:0035556,Biological Process,intracellular signal transduction
+Q9UQQ2,GO:0035855,Biological Process,megakaryocyte development
+Q9UQQ2,GO:0035702,Biological Process,monocyte homeostasis
+Q9UQQ2,GO:0008285,Biological Process,negative regulation of cell population proliferation
+Q9UQQ2,GO:0070100,Biological Process,negative regulation of chemokine-mediated signaling pathway
+Q9UQQ2,GO:1900235,Biological Process,negative regulation of Kit signaling pathway
+Q9UQQ2,GO:0043409,Biological Process,negative regulation of MAPK cascade
+Q9UQQ2,GO:0051898,Biological Process,negative regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction
+Q9UQQ2,GO:0090331,Biological Process,negative regulation of platelet aggregation
+Q9UQQ2,GO:0046426,Biological Process,negative regulation of receptor signaling pathway via JAK-STAT
+Q9UQQ2,GO:1904893,Biological Process,negative regulation of receptor signaling pathway via STAT
+Q9UQQ2,GO:0060761,Biological Process,negative regulation of response to cytokine stimulus
+Q9UQQ2,GO:0001780,Biological Process,neutrophil homeostasis
+Q9UQQ2,GO:0038163,Biological Process,thrombopoietin-mediated signaling pathway
+Q15025,GO:0005829,Cellular Component,cytosol
+Q15025,GO:0005654,Cellular Component,nucleoplasm
+Q15025,GO:0042802,Molecular Function,identical protein binding
+Q15025,GO:0051019,Molecular Function,mitogen-activated protein kinase binding
+Q15025,GO:0071222,Biological Process,cellular response to lipopolysaccharide
+Q15025,GO:0006952,Biological Process,defense response
+Q15025,GO:0009101,Biological Process,glycoprotein biosynthetic process
+Q15025,GO:0006954,Biological Process,inflammatory response
+Q15025,GO:0007159,Biological Process,leukocyte cell-cell adhesion
+Q15025,GO:0002755,Biological Process,MyD88-dependent toll-like receptor signaling pathway
+Q15025,GO:0043124,Biological Process,negative regulation of canonical NF-kappaB signal transduction
+Q15025,GO:0070373,Biological Process,negative regulation of ERK1 and ERK2 cascade
+Q15025,GO:0045071,Biological Process,negative regulation of viral genome replication
+Q15025,GO:0050729,Biological Process,positive regulation of inflammatory response
+Q15025,GO:1903003,Biological Process,positive regulation of protein deubiquitination
+Q15025,GO:0045944,Biological Process,positive regulation of transcription by RNA polymerase II
+Q15025,GO:0006357,Biological Process,regulation of transcription by RNA polymerase II
+Q15025,GO:0006412,Biological Process,translation
+P35228,GO:0030863,Cellular Component,cortical cytoskeleton
+P35228,GO:0005737,Cellular Component,cytoplasm
+P35228,GO:0005829,Cellular Component,cytosol
+P35228,GO:0005654,Cellular Component,nucleoplasm
+P35228,GO:0005634,Cellular Component,nucleus
+P35228,GO:0048471,Cellular Component,perinuclear region of cytoplasm
+P35228,GO:0005782,Cellular Component,peroxisomal matrix
+P35228,GO:0005777,Cellular Component,peroxisome
+P35228,GO:0005886,Cellular Component,plasma membrane
+P35228,GO:0034618,Molecular Function,arginine binding
+P35228,GO:0005516,Molecular Function,calmodulin binding
+P35228,GO:0050660,Molecular Function,flavin adenine dinucleotide binding
+P35228,GO:0010181,Molecular Function,FMN binding
+P35228,GO:0020037,Molecular Function,heme binding
+P35228,GO:0046872,Molecular Function,metal ion binding
+P35228,GO:0050661,Molecular Function,NADP binding
+P35228,GO:0004517,Molecular Function,nitric-oxide synthase activity
+P35228,GO:0042803,Molecular Function,protein homodimerization activity
+P35228,GO:0034617,Molecular Function,tetrahydrobiopterin binding
+P35228,GO:0006527,Biological Process,arginine catabolic process
+P35228,GO:0045454,Biological Process,cell redox homeostasis
+P35228,GO:0071222,Biological Process,cellular response to lipopolysaccharide
+P35228,GO:0071346,Biological Process,cellular response to type II interferon
+P35228,GO:0071466,Biological Process,cellular response to xenobiotic stimulus
+P35228,GO:0007623,Biological Process,circadian rhythm
+P35228,GO:0042742,Biological Process,defense response to bacterium
+P35228,GO:0050829,Biological Process,defense response to Gram-negative bacterium
+P35228,GO:0006954,Biological Process,inflammatory response
+P35228,GO:0002227,Biological Process,innate immune response in mucosa
+P35228,GO:0045776,Biological Process,negative regulation of blood pressure
+P35228,GO:0010629,Biological Process,negative regulation of gene expression
+P35228,GO:0042177,Biological Process,negative regulation of protein catabolic process
+P35228,GO:0006809,Biological Process,nitric oxide biosynthetic process
+P35228,GO:0007263,Biological Process,nitric oxide mediated signal transduction
+P35228,GO:0018119,Biological Process,peptidyl-cysteine S-nitrosylation
+P35228,GO:0032755,Biological Process,positive regulation of interleukin-6 production
+P35228,GO:0032757,Biological Process,positive regulation of interleukin-8 production
+P35228,GO:0051712,Biological Process,positive regulation of killing of cells of another organism
+P35228,GO:0001912,Biological Process,positive regulation of leukocyte mediated cytotoxicity
+P35228,GO:0032310,Biological Process,prostaglandin secretion
+P35228,GO:0042127,Biological Process,regulation of cell population proliferation
+P35228,GO:0043457,Biological Process,regulation of cellular respiration
+P35228,GO:1900015,Biological Process,regulation of cytokine production involved in inflammatory response
+P35228,GO:0050796,Biological Process,regulation of insulin secretion
+P35228,GO:0009617,Biological Process,response to bacterium
+P35228,GO:0009725,Biological Process,response to hormone
+P35228,GO:0001666,Biological Process,response to hypoxia
+P35228,GO:0032496,Biological Process,response to lipopolysaccharide
+P35228,GO:0006801,Biological Process,superoxide metabolic process
+Q9ULJ6,GO:0000785,Cellular Component,chromatin
+Q9ULJ6,GO:0005737,Cellular Component,cytoplasm
+Q9ULJ6,GO:0005829,Cellular Component,cytosol
+Q9ULJ6,GO:0005654,Cellular Component,nucleoplasm
+Q9ULJ6,GO:0005634,Cellular Component,nucleus
+Q9ULJ6,GO:0030374,Molecular Function,nuclear receptor coactivator activity
+Q9ULJ6,GO:0046332,Molecular Function,SMAD binding
+Q9ULJ6,GO:0061665,Molecular Function,SUMO ligase activity
+Q9ULJ6,GO:0003713,Molecular Function,transcription coactivator activity
+Q9ULJ6,GO:0008270,Molecular Function,zinc ion binding
+Q9ULJ6,GO:0030521,Biological Process,androgen receptor signaling pathway
+Q9ULJ6,GO:0048844,Biological Process,artery morphogenesis
+Q9ULJ6,GO:0090398,Biological Process,cellular senescence
+Q9ULJ6,GO:0048589,Biological Process,developmental growth
+Q9ULJ6,GO:0003007,Biological Process,heart morphogenesis
+Q9ULJ6,GO:0001701,Biological Process,in utero embryonic development
+Q9ULJ6,GO:0048146,Biological Process,positive regulation of fibroblast proliferation
+Q9ULJ6,GO:0045747,Biological Process,positive regulation of Notch signaling pathway
+Q9ULJ6,GO:0045582,Biological Process,positive regulation of T cell differentiation
+Q9ULJ6,GO:0045944,Biological Process,positive regulation of transcription by RNA polymerase II
+Q9ULJ6,GO:0016925,Biological Process,protein sumoylation
+Q9ULJ6,GO:0021852,Biological Process,pyramidal neuron migration to cerebral cortex
+Q9ULJ6,GO:0006357,Biological Process,regulation of transcription by RNA polymerase II
+Q9ULJ6,GO:0060395,Biological Process,SMAD protein signal transduction
+Q9ULJ6,GO:0007179,Biological Process,transforming growth factor beta receptor signaling pathway
+Q9ULJ6,GO:0001570,Biological Process,vasculogenesis
+Q9ULJ6,GO:0007296,Biological Process,vitellogenesis
+P14921,GO:0000785,Cellular Component,chromatin
+P14921,GO:0005737,Cellular Component,cytoplasm
+P14921,GO:0005654,Cellular Component,nucleoplasm
+P14921,GO:0005634,Cellular Component,nucleus
+P14921,GO:0003677,Molecular Function,DNA binding
+P14921,GO:0001228,Molecular Function,"DNA-binding transcription activator activity, RNA polymerase II-specific"
+P14921,GO:0003700,Molecular Function,DNA-binding transcription factor activity
+P14921,GO:0000981,Molecular Function,"DNA-binding transcription factor activity, RNA polymerase II-specific"
+P14921,GO:0042802,Molecular Function,identical protein binding
+P14921,GO:0030374,Molecular Function,nuclear receptor coactivator activity
+P14921,GO:0003676,Molecular Function,nucleic acid binding
+P14921,GO:0000978,Molecular Function,RNA polymerase II cis-regulatory region sequence-specific DNA binding
+P14921,GO:0061629,Molecular Function,RNA polymerase II-specific DNA-binding transcription factor binding
+P14921,GO:0000976,Molecular Function,transcription cis-regulatory region binding
+P14921,GO:0001222,Molecular Function,transcription corepressor binding
+P14921,GO:0048870,Biological Process,cell motility
+P14921,GO:0006955,Biological Process,immune response
+P14921,GO:0045786,Biological Process,negative regulation of cell cycle
+P14921,GO:0008285,Biological Process,negative regulation of cell population proliferation
+P14921,GO:0030578,Biological Process,PML body organization
+P14921,GO:0045766,Biological Process,positive regulation of angiogenesis
+P14921,GO:0043536,Biological Process,positive regulation of blood vessel endothelial cell migration
+P14921,GO:0045893,Biological Process,positive regulation of DNA-templated transcription
+P14921,GO:0010595,Biological Process,positive regulation of endothelial cell migration
+P14921,GO:0045648,Biological Process,positive regulation of erythrocyte differentiation
+P14921,GO:0010628,Biological Process,positive regulation of gene expression
+P14921,GO:0050729,Biological Process,positive regulation of inflammatory response
+P14921,GO:1904996,Biological Process,positive regulation of leukocyte adhesion to vascular endothelial cell
+P14921,GO:1902895,Biological Process,positive regulation of miRNA transcription
+P14921,GO:0045944,Biological Process,positive regulation of transcription by RNA polymerase II
+P14921,GO:0045765,Biological Process,regulation of angiogenesis
+P14921,GO:0042981,Biological Process,regulation of apoptotic process
+P14921,GO:0006357,Biological Process,regulation of transcription by RNA polymerase II
+P14921,GO:0046677,Biological Process,response to antibiotic
+P14921,GO:0006366,Biological Process,transcription by RNA polymerase II
+P24394,GO:0034451,Cellular Component,centriolar satellite
+P24394,GO:0009897,Cellular Component,external side of plasma membrane
+P24394,GO:0005576,Cellular Component,extracellular region
+P24394,GO:0005654,Cellular Component,nucleoplasm
+P24394,GO:0005886,Cellular Component,plasma membrane
+P24394,GO:0043235,Cellular Component,receptor complex
+P24394,GO:0004896,Molecular Function,cytokine receptor activity
+P24394,GO:0004913,Molecular Function,interleukin-4 receptor activity
+P24394,GO:0019221,Biological Process,cytokine-mediated signaling pathway
+P24394,GO:0042832,Biological Process,defense response to protozoan
+P24394,GO:0006955,Biological Process,immune response
+P24394,GO:0016064,Biological Process,immunoglobulin mediated immune response
+P24394,GO:0035771,Biological Process,interleukin-4-mediated signaling pathway
+P24394,GO:0045626,Biological Process,negative regulation of T-helper 1 cell differentiation
+P24394,GO:0032722,Biological Process,positive regulation of chemokine production
+P24394,GO:0120162,Biological Process,positive regulation of cold-induced thermogenesis
+P24394,GO:0002639,Biological Process,positive regulation of immunoglobulin production
+P24394,GO:0043032,Biological Process,positive regulation of macrophage activation
+P24394,GO:0043306,Biological Process,positive regulation of mast cell degranulation
+P24394,GO:1901741,Biological Process,positive regulation of myoblast fusion
+P24394,GO:0045630,Biological Process,positive regulation of T-helper 2 cell differentiation
+P24394,GO:0002532,Biological Process,production of molecular mediator involved in inflammatory response
+P24394,GO:0007165,Biological Process,signal transduction
+P24394,GO:0045063,Biological Process,T-helper 1 cell differentiation
+P24394,GO:0045064,Biological Process,T-helper 2 cell differentiation
+P35225,GO:0005737,Cellular Component,cytoplasm
+P35225,GO:0009897,Cellular Component,external side of plasma membrane
+P35225,GO:0005576,Cellular Component,extracellular region
+P35225,GO:0005615,Cellular Component,extracellular space
+P35225,GO:0005125,Molecular Function,cytokine activity
+P35225,GO:0005144,Molecular Function,interleukin-13 receptor binding
+P35225,GO:0071345,Biological Process,cellular response to cytokine stimulus
+P35225,GO:0071260,Biological Process,cellular response to mechanical stimulus
+P35225,GO:0006955,Biological Process,immune response
+P35225,GO:0006954,Biological Process,inflammatory response
+P35225,GO:0042116,Biological Process,macrophage activation
+P35225,GO:0001774,Biological Process,microglial cell activation
+P35225,GO:1903660,Biological Process,negative regulation of complement-dependent cytotoxicity
+P35225,GO:2000352,Biological Process,negative regulation of endothelial cell apoptotic process
+P35225,GO:0050728,Biological Process,negative regulation of inflammatory response
+P35225,GO:1901247,Biological Process,negative regulation of lung ciliated cell differentiation
+P35225,GO:0071635,Biological Process,negative regulation of transforming growth factor beta production
+P35225,GO:0030890,Biological Process,positive regulation of B cell proliferation
+P35225,GO:0120162,Biological Process,positive regulation of cold-induced thermogenesis
+P35225,GO:0032723,Biological Process,positive regulation of connective tissue growth factor production
+P35225,GO:0010628,Biological Process,positive regulation of gene expression
+P35225,GO:0002639,Biological Process,positive regulation of immunoglobulin production
+P35225,GO:0032733,Biological Process,positive regulation of interleukin-10 production
+P35225,GO:1901251,Biological Process,positive regulation of lung goblet cell differentiation
+P35225,GO:0043032,Biological Process,positive regulation of macrophage activation
+P35225,GO:0043306,Biological Process,positive regulation of mast cell degranulation
+P35225,GO:2000231,Biological Process,positive regulation of pancreatic stellate cell proliferation
+P35225,GO:0050714,Biological Process,positive regulation of protein secretion
+P35225,GO:0051281,Biological Process,positive regulation of release of sequestered calcium ion into cytosol
+P35225,GO:0048661,Biological Process,positive regulation of smooth muscle cell proliferation
+P35225,GO:0042531,Biological Process,positive regulation of tyrosine phosphorylation of STAT protein
+P35225,GO:0010155,Biological Process,regulation of proton transport
+P35225,GO:0045471,Biological Process,response to ethanol
+P35225,GO:0032496,Biological Process,response to lipopolysaccharide
+P35225,GO:0035094,Biological Process,response to nicotine
+P36508,GO:0005634,Cellular Component,nucleus
+P36508,GO:0001228,Molecular Function,"DNA-binding transcription activator activity, RNA polymerase II-specific"
+P36508,GO:0000981,Molecular Function,"DNA-binding transcription factor activity, RNA polymerase II-specific"
+P36508,GO:0046872,Molecular Function,metal ion binding
+P36508,GO:0000978,Molecular Function,RNA polymerase II cis-regulatory region sequence-specific DNA binding
+P36508,GO:0043565,Molecular Function,sequence-specific DNA binding
+P36508,GO:1990837,Molecular Function,sequence-specific double-stranded DNA binding
+P36508,GO:0007417,Biological Process,central nervous system development
+P36508,GO:0045944,Biological Process,positive regulation of transcription by RNA polymerase II
+P36508,GO:0006357,Biological Process,regulation of transcription by RNA polymerase II
+P36508,GO:0006359,Biological Process,regulation of transcription by RNA polymerase III
+Q9BYX4,GO:0005737,Cellular Component,cytoplasm
+Q9BYX4,GO:0005829,Cellular Component,cytosol
+Q9BYX4,GO:0005739,Cellular Component,mitochondrion
+Q9BYX4,GO:0005634,Cellular Component,nucleus
+Q9BYX4,GO:0005524,Molecular Function,ATP binding
+Q9BYX4,GO:0016887,Molecular Function,ATP hydrolysis activity
+Q9BYX4,GO:0003677,Molecular Function,DNA binding
+Q9BYX4,GO:0003725,Molecular Function,double-stranded RNA binding
+Q9BYX4,GO:0042802,Molecular Function,identical protein binding
+Q9BYX4,GO:0038187,Molecular Function,pattern recognition receptor activity
+Q9BYX4,GO:0043021,Molecular Function,ribonucleoprotein complex binding
+Q9BYX4,GO:0003723,Molecular Function,RNA binding
+Q9BYX4,GO:0003724,Molecular Function,RNA helicase activity
+Q9BYX4,GO:0003727,Molecular Function,single-stranded RNA binding
+Q9BYX4,GO:0008270,Molecular Function,zinc ion binding
+Q9BYX4,GO:0140374,Biological Process,antiviral innate immune response
+Q9BYX4,GO:0071360,Biological Process,cellular response to exogenous dsRNA
+Q9BYX4,GO:0098586,Biological Process,cellular response to virus
+Q9BYX4,GO:0002753,Biological Process,cytoplasmic pattern recognition receptor signaling pathway
+Q9BYX4,GO:0051607,Biological Process,defense response to virus
+Q9BYX4,GO:0009597,Biological Process,detection of virus
+Q9BYX4,GO:0045087,Biological Process,innate immune response
+Q9BYX4,GO:0039530,Biological Process,MDA-5 signaling pathway
+Q9BYX4,GO:0045071,Biological Process,negative regulation of viral genome replication
+Q9BYX4,GO:0032727,Biological Process,positive regulation of interferon-alpha production
+Q9BYX4,GO:0032728,Biological Process,positive regulation of interferon-beta production
+Q9BYX4,GO:0032755,Biological Process,positive regulation of interleukin-6 production
+Q9BYX4,GO:0060760,Biological Process,positive regulation of response to cytokine stimulus
+Q9BYX4,GO:0032760,Biological Process,positive regulation of tumor necrosis factor production
+Q9BYX4,GO:0051259,Biological Process,protein complex oligomerization
+Q9BYX4,GO:0016925,Biological Process,protein sumoylation
+Q9BYX4,GO:0034344,Biological Process,regulation of type III interferon production
+Q9BYX4,GO:0009615,Biological Process,response to virus
+Q9BYX4,GO:0060337,Biological Process,type I interferon-mediated signaling pathway
+P25963,GO:0005737,Cellular Component,cytoplasm
+P25963,GO:0005829,Cellular Component,cytosol
+P25963,GO:0033256,Cellular Component,I-kappaB/NF-kappaB complex
+P25963,GO:0005654,Cellular Component,nucleoplasm
+P25963,GO:0005634,Cellular Component,nucleus
+P25963,GO:0005886,Cellular Component,plasma membrane
+P25963,GO:0019899,Molecular Function,enzyme binding
+P25963,GO:0042802,Molecular Function,identical protein binding
+P25963,GO:0140313,Molecular Function,molecular sequestering activity
+P25963,GO:0051059,Molecular Function,NF-kappaB binding
+P25963,GO:0008139,Molecular Function,nuclear localization sequence binding
+P25963,GO:0140311,Molecular Function,protein sequestering activity
+P25963,GO:0140416,Molecular Function,transcription regulator inhibitor activity
+P25963,GO:0031625,Molecular Function,ubiquitin protein ligase binding
+P25963,GO:0050853,Biological Process,B cell receptor signaling pathway
+P25963,GO:0007249,Biological Process,canonical NF-kappaB signal transduction
+P25963,GO:0070417,Biological Process,cellular response to cold
+P25963,GO:0071356,Biological Process,cellular response to tumor necrosis factor
+P25963,GO:0007253,Biological Process,cytoplasmic sequestering of NF-kappaB
+P25963,GO:0070498,Biological Process,interleukin-1-mediated signaling pathway
+P25963,GO:0031663,Biological Process,lipopolysaccharide-mediated signaling pathway
+P25963,GO:0043124,Biological Process,negative regulation of canonical NF-kappaB signal transduction
+P25963,GO:0010888,Biological Process,negative regulation of lipid storage
+P25963,GO:0010745,Biological Process,negative regulation of macrophage derived foam cell differentiation
+P25963,GO:0045638,Biological Process,negative regulation of myeloid cell differentiation
+P25963,GO:0032088,Biological Process,negative regulation of NF-kappaB transcription factor activity
+P25963,GO:0045746,Biological Process,negative regulation of Notch signaling pathway
+P25963,GO:0038061,Biological Process,non-canonical NF-kappaB signal transduction
+P25963,GO:0007219,Biological Process,Notch signaling pathway
+P25963,GO:0070427,Biological Process,nucleotide-binding oligomerization domain containing 1 signaling pathway
+P25963,GO:0070431,Biological Process,nucleotide-binding oligomerization domain containing 2 signaling pathway
+P25963,GO:0010875,Biological Process,positive regulation of cholesterol efflux
+P25963,GO:0050729,Biological Process,positive regulation of inflammatory response
+P25963,GO:0051247,Biological Process,positive regulation of protein metabolic process
+P25963,GO:0045944,Biological Process,positive regulation of transcription by RNA polymerase II
+P25963,GO:0060261,Biological Process,positive regulation of transcription initiation by RNA polymerase II
+P25963,GO:0006606,Biological Process,protein import into nucleus
+P25963,GO:0042127,Biological Process,regulation of cell population proliferation
+P25963,GO:0043330,Biological Process,response to exogenous dsRNA
+P25963,GO:0032495,Biological Process,response to muramyl dipeptide
+P25963,GO:0035994,Biological Process,response to muscle stretch
+P25963,GO:0034142,Biological Process,toll-like receptor 4 signaling pathway
+P25963,GO:0033209,Biological Process,tumor necrosis factor-mediated signaling pathway
+Q9NPF7,GO:0005788,Cellular Component,endoplasmic reticulum lumen
+Q9NPF7,GO:0005576,Cellular Component,extracellular region
+Q9NPF7,GO:0070743,Cellular Component,interleukin-23 complex
+Q9NPF7,GO:0005125,Molecular Function,cytokine activity
+Q9NPF7,GO:0045519,Molecular Function,interleukin-23 receptor binding
+Q9NPF7,GO:0007259,Biological Process,cell surface receptor signaling pathway via JAK-STAT
+Q9NPF7,GO:0050829,Biological Process,defense response to Gram-negative bacterium
+Q9NPF7,GO:0051607,Biological Process,defense response to virus
+Q9NPF7,GO:0006954,Biological Process,inflammatory response
+Q9NPF7,GO:0045087,Biological Process,innate immune response
+Q9NPF7,GO:0032693,Biological Process,negative regulation of interleukin-10 production
+Q9NPF7,GO:0042104,Biological Process,positive regulation of activated T cell proliferation
+Q9NPF7,GO:0002230,Biological Process,positive regulation of defense response to virus by host
+Q9NPF7,GO:0032725,Biological Process,positive regulation of granulocyte macrophage colony-stimulating factor production
+Q9NPF7,GO:0050729,Biological Process,positive regulation of inflammatory response
+Q9NPF7,GO:0032733,Biological Process,positive regulation of interleukin-10 production
+Q9NPF7,GO:0032735,Biological Process,positive regulation of interleukin-12 production
+Q9NPF7,GO:0032740,Biological Process,positive regulation of interleukin-17 production
+Q9NPF7,GO:0043382,Biological Process,positive regulation of memory T cell differentiation
+Q9NPF7,GO:0032816,Biological Process,positive regulation of natural killer cell activation
+Q9NPF7,GO:0032819,Biological Process,positive regulation of natural killer cell proliferation
+Q9NPF7,GO:0090023,Biological Process,positive regulation of neutrophil chemotaxis
+Q9NPF7,GO:0051135,Biological Process,positive regulation of NK T cell activation
+Q9NPF7,GO:0051142,Biological Process,positive regulation of NK T cell proliferation
+Q9NPF7,GO:1901224,Biological Process,positive regulation of non-canonical NF-kappaB signal transduction
+Q9NPF7,GO:0045672,Biological Process,positive regulation of osteoclast differentiation
+Q9NPF7,GO:0001916,Biological Process,positive regulation of T cell mediated cytotoxicity
+Q9NPF7,GO:0042102,Biological Process,positive regulation of T cell proliferation
+Q9NPF7,GO:0002827,Biological Process,positive regulation of T-helper 1 type immune response
+Q9NPF7,GO:2000330,Biological Process,positive regulation of T-helper 17 cell lineage commitment
+Q9NPF7,GO:2000318,Biological Process,positive regulation of T-helper 17 type immune response
+Q9NPF7,GO:0034105,Biological Process,positive regulation of tissue remodeling
+Q9NPF7,GO:0045944,Biological Process,positive regulation of transcription by RNA polymerase II
+Q9NPF7,GO:0032760,Biological Process,positive regulation of tumor necrosis factor production
+Q9NPF7,GO:0032729,Biological Process,positive regulation of type II interferon production
+Q9NPF7,GO:0042531,Biological Process,positive regulation of tyrosine phosphorylation of STAT protein
+Q9NPF7,GO:0042098,Biological Process,T cell proliferation
+Q9NPF7,GO:0048771,Biological Process,tissue remodeling
+O15417,GO:0005829,Cellular Component,cytosol
+O15417,GO:0005739,Cellular Component,mitochondrion
+O15417,GO:0031965,Cellular Component,nuclear membrane
+O15417,GO:0005654,Cellular Component,nucleoplasm
+O15417,GO:0003682,Molecular Function,chromatin binding
+Q8IU57,GO:0032002,Cellular Component,interleukin-28 receptor complex
+Q8IU57,GO:0016020,Cellular Component,membrane
+Q8IU57,GO:0005886,Cellular Component,plasma membrane
+Q8IU57,GO:0004896,Molecular Function,cytokine receptor activity
+Q8IU57,GO:0098586,Biological Process,cellular response to virus
+Q8IU57,GO:0019221,Biological Process,cytokine-mediated signaling pathway
+Q8IU57,GO:0051607,Biological Process,defense response to virus
+Q8IU57,GO:0002385,Biological Process,mucosal immune response
+Q8IU57,GO:0008285,Biological Process,negative regulation of cell population proliferation
+Q8IU57,GO:1901857,Biological Process,positive regulation of cellular respiration
+Q8IU57,GO:0050691,Biological Process,regulation of defense response to virus by host
+Q8IU57,GO:0034342,Biological Process,response to type III interferon
+Q8IU57,GO:0038196,Biological Process,type III interferon-mediated signaling pathway
